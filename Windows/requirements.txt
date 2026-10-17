@@ -1,0 +1,6 @@
+numpy>=1.24
+pandas>=2.0
+openpyxl>=3.1
+customtkinter>=5.2
+matplotlib>=3.7   # graph previews (Origin thumbnails, PowerPoint slides)
+python-pptx>=0.6.22   # PowerPoint export
